@@ -6,6 +6,7 @@ const Index = () => {
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
       <VStack spacing={4}>
         <BitcoinPrice />
+        
       </VStack>
     </Container>
   );
